@@ -18,4 +18,8 @@ Q. How do the diagrams help you visualize the branch structure?
 
 A. They visually represent the linear status of the commits. Geek term alert!  Directed Acyclic Graph (DAG) this means that each successive commit has a direct parent (directed) and that no commit can ever refer back to itself (acyclic).
 
+Q. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A. Merging two branches combines the code changes from both branches into one branch. We represent it in the diagram as a merge of the branches to demonstrate all of the commits that will be in the merged branch as well as to spot any potential abandoned commits that would be lost after the merge.
+
 
