@@ -14,4 +14,8 @@ Q. What are some situations when branches would be helpful in keeping your histo
 
 A. When you want to play around without changing the main part of the code.  Branches would allow you to tinker with the code without actually changing the main project.
 
+Q. How do the diagrams help you visualize the branch structure?
+
+A. They visually represent the linear status of the commits. Geek term alert!  Directed Acyclic Graph (DAG) this means that each successive commit has a direct parent (directed) and that no commit can ever refer back to itself (acyclic).
+
 
