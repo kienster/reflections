@@ -9,3 +9,9 @@ A. the staging area is unique to the git program. it allows you to put files in 
 Q. How can you use the staging area to make sure you have one commit per logical change?
 
 A. Using the staging area, you can use git status to make sure you've only staged the files involved in the most recent logical change. If you have too many files in the SA, you should remove the extra ones before you commit to ensure you only commit logical changes.
+
+Q. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A. When you want to play around without changing the main part of the code.  Branches would allow you to tinker with the code without actually changing the main project.
+
+
