@@ -1,0 +1,7 @@
+Q. What happens when you initialize a repository? Why do you need to do it?
+
+A. Init a repository creates the hidden .git directory.  You need to do it so that you can begin to track changes.
+
+Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A. the staging area is unique to the git program. it allows you to put files in that you want to track changes to. those files are in the current working dir but don't necessarily have to be part of git.  the value is that you can stage only the files that you want git to keep up with.
