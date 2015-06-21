@@ -15,4 +15,8 @@ Q. What is the benefit of having a copy of the last known state of the remote st
 
 A. this gives you the opportunity to examine differences between your current local rep with the remote offline. a great activity to pass the time when travelling!
 
+Q. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A. Without git/github, we rename files or add .bak extensions to them. This keeps changes separated and works ok for a small number of collaborators but we wind up with a lot of chaff in the directories that periodically have to be cleaned up which sucks. If we used git/github we could make our changes and merge them together, saving disk space and clutter. The downside is that everyone has to learn how to use git/github and that can be a challenge for the "technically-impaired".
+
 
