@@ -11,4 +11,8 @@ Q. Describe the differences between forks, clones, and branches. When would you 
 
 A. Forks copy someone else's rep to your own ON GITHUB ONLY. A clone copies a repository to your local computer. A branch splits off from a local repository. You would fork when you can't or don't want to make changes to someone else's rep on github and save some time avoiding multiple clones, pulls, and pushes.  Plus forking gives proper credit to the rep's author. You would clone when you want to work on a rep on your local machine and you would branch if you want to play with alternate changes/features without impacting the main project tree.
 
+Q. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A. this gives you the opportunity to examine differences between your current local rep with the remote offline. a great activity to pass the time when travelling!
+
 
