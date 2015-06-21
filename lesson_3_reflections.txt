@@ -7,3 +7,8 @@ Q. Why might you want to always pull changes manually rather than having Git aut
 
 A. You wouldn't want git detecting changes you're working on in the local rep and automatically syncing it with the remote as it might overwrite something or commit changes you weren't sure you wanted to put in github.
 
+Q. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A. Forks copy someone else's rep to your own ON GITHUB ONLY. A clone copies a repository to your local computer. A branch splits off from a local repository. You would fork when you can't or don't want to make changes to someone else's rep on github and save some time avoiding multiple clones, pulls, and pushes.  Plus forking gives proper credit to the rep's author. You would clone when you want to work on a rep on your local machine and you would branch if you want to play with alternate changes/features without impacting the main project tree.
+
+
